@@ -230,3 +230,7 @@ footer {
 .col {
   flex: 1 0 0%;
 }
+
+.col-6 {
+  width: 50%;
+}
